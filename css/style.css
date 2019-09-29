@@ -1,0 +1,6 @@
+
+div.backgroundImage:before {
+   content:url('img/blur_bg.jpg');
+      width:100px; /*width of your image*/
+   height:100px; /*height of your image*/
+}
